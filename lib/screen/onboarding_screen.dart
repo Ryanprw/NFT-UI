@@ -92,7 +92,7 @@ class OnboardingScreen extends StatelessWidget {
                       borderRadius: 30,
                       elevation: 0,
                       innerColor: Colors.white,
-                      outerColor: const Color(0xFFF4B7A8),
+                      outerColor: Colors.black,
                       sliderButtonIcon: const Icon(
                         Icons.arrow_forward_ios,
                         color: Colors.grey,
